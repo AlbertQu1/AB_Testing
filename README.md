@@ -75,7 +75,7 @@ Online store data from three sources: a hypothesis list with impact/confidence/e
 ## Repository Structure
 
 ```
-├── ab_testing_analysis.ipynb   # Main notebook with full analysis
+├── AB_Testing_11.ipynb   # Main notebook with full analysis
 ├── README.md
 └── data/
     ├── hypotheses_us.csv
